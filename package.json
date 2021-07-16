@@ -1,0 +1,20 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "post-checkout": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-feng/upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-feng/upload/issues"
+  },
+  "homepage": "https://github.com/N-feng/upload#readme"
+}
