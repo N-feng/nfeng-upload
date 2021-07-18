@@ -35,7 +35,7 @@ const processSass = function (context, payload) {
 
 module.exports = [
   {
-    input: resolveFile('src/main.js'),
+    input: resolveFile('src/index.js'),
     output: {
       file: resolveFile('dist/index.js'),
       format: 'esm',
