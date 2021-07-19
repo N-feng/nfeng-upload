@@ -1,5 +1,5 @@
 // Import vue component
-import Upload from "./components/Upload"
+import Upload from "./components/Upload.vue"
 
 const components = [
   Upload

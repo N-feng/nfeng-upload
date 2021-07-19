@@ -226,7 +226,7 @@
     /* style */
     const __vue_inject_styles__ = function (inject) {
       if (!inject) return
-      inject("data-v-3a63052e_0", { source: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", map: {"version":3,"sources":[],"names":[],"mappings":"","file":"Upload.vue"}, media: undefined });
+      inject("data-v-f7418304_0", { source: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", map: {"version":3,"sources":[],"names":[],"mappings":"","file":"Upload.vue"}, media: undefined });
 
     };
     /* scoped */
@@ -253,10 +253,6 @@
       undefined,
       undefined
     );
-
-  __vue_component__.install = function (Vue) {
-    Vue.component(__vue_component__.name, __vue_component__);
-  };
 
   // Import vue component
   const components = [__vue_component__]; // will install the plugin only once
